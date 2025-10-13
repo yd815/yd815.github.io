@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yd815.github.io/yifan.dong.1/sitemap.xml
